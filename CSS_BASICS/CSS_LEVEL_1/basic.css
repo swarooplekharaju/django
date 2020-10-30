@@ -1,0 +1,28 @@
+/*
+basic structure of css
+selected tag{
+property:value;
+}
+
+which means all the tags linked in the html 
+will be effected with the property
+we can use color picker color codes as well 
+
+*/
+
+
+h1{
+color:cyan;
+}
+
+li{
+    color:rgb(8,84,1);
+}
+
+p{
+    color: #0895a8;
+}
+
+h2{
+    color: rgba(8,84,1,1);
+}

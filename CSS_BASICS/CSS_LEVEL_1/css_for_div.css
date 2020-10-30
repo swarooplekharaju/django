@@ -1,0 +1,39 @@
+a{
+    color:paleturquoise ;
+    text-align: center;  
+}
+
+body{
+ background-color: teal;   
+ background-image: url('https://i.stack.imgur.com/NEuip.jpg');  
+ padding-left: 2.9%;  
+ padding-bottom: 2.9%;  
+ background-size: cover;
+
+}
+
+.div1{
+text-align: center;
+background-color: tomato;
+border-color: whitesmoke;
+border-width: thick;
+border-style:dotted;
+width: 500px;
+height: 110px;
+overflow: scroll;
+position: sticky;
+  
+
+}
+p{
+    color: yellow;
+}
+
+
+h3+ul{
+    border: 4px dotted purple;
+}
+
+*{
+color: royalblue;
+}
